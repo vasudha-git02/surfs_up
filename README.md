@@ -11,14 +11,15 @@ about this. He invested in a surf shop early in his career. However he didnt ask
 ## Results 
 Below are the results of the temperature observations for the months of June and December
 
--June
+- June
   - Total count is 1700
   - The mean is 74.9
-  - The standard deviation is 3.25	
+  - The standard deviation is 3.25		
   - The minimum temperature is 64
   - The maximum temperature is 85
+
   
-  Below is the images corresponding to the results.
+  Below is the image corresponding to the results.
   
   
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/104597335/177475998-be4a7091-696d-4d17-af47-736d2011e803.png">
