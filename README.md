@@ -26,6 +26,7 @@ Below are the results of the temperature observations for the months of June and
 
   
 - December
+
   - Total count is 1517
   - The mean is 71.04
   - The standard deviation is 3.74		
